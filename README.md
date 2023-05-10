@@ -21,4 +21,5 @@ Some insights from the Analysis;
 4.	The analysis confirms that executive-level positions have higher average salaries, with cloud data architect being the second highest paid profession due to the trend of cloud computing.
 5.	Over the years, the average salaries for full-time positions have increased, indicating companies' growing interest in data science. The second highest average salary is for freelancers, indicating a trend towards freelance work.
 6.	The average salary for data-driven jobs is increasing every year, with a significant jump observed between 2021 and 2022. This trend highlights the growing demand for skilled professionals in this field.
+
 In conclusion, the analysis demonstrates that Data Science is a highly sought-after and rapidly growing field. The graphs clearly indicate the continued popularity of data science.
