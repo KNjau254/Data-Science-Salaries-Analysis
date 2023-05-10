@@ -1,4 +1,6 @@
 # Data-Science-Salaries-Analysis
+Data source: https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023?resource=download
+
 In this Repo, I used Jupyter notebook to explore trends &amp; salaries in data science.
 I explored the data using the following steps:
 1.	Installing and importing required libraries
